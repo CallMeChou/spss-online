@@ -1,1 +1,21 @@
-nothing
+/spss_analysis_website
+/client # Same as before
+/server
+/app
+/templates
+index.html
+login.html
+register.html
+/static
+/css
+main.css
+/main
+init.py
+routes.py
+models.py
+forms.py
+/migrations
+config.py
+wsgi.py
+README.md
+...
